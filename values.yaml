@@ -47,4 +47,4 @@ conf:
     
   logback:
     logback_rolling_file_max_size: 100MB
-    logback_file_max_history: 30
+    logback_file_max_history: 50
