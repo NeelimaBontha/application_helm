@@ -46,5 +46,9 @@ conf:
     iCloudHeader_Content-Type=application/json; charset: UTF-8
     
   logback:
-    logback_rolling_file_max_size: 100MB
+    logback_rolling_file_max_size: 150MB
+<<<<<<< HEAD
     logback_file_max_history:50
+=======
+    logback_file_max_history: 50
+>>>>>>> 39313fc7f95a670cfb2ef6df73acef927cc19b42
